@@ -7,7 +7,7 @@
 - LangGraph 기반 AI 에이전트·RAG 챗봇 설계 · 구현
 - KT AIVLE School 7기 빅프로젝트 **대상** · 농림축산식품 창업경진대회 **우수상**
 
-📫 t3335150@gmail.com · 🌐 [Portfolio](https://portfolio-choiminji.vercel.app)
+📫 t3335150@gmail.com
 
 <br>
 
